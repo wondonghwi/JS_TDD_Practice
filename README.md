@@ -2,7 +2,7 @@
 
 ## sum.js 를 sum.test.js 로 Test
 
-![](JS_TDD_Test.png)
+![](JS_TDD_Practice.PNG)
 
 ### jest 이용
 
