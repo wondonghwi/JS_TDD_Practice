@@ -29,4 +29,5 @@ package.json에 script 추가
 
 $yarn test = 스크립트 실행(테스트 실행)
 
+🎈함수를 여러개 쓸때는 describe로 묶어줍니다.
 
