@@ -1,6 +1,6 @@
 # JS로 하는 간단한 TDD 연습
 
-## sum.js 를 sum.test.js 로 Test
+## JS를 이용한 TDD학습을 위한 연습!
 
 ![](JS_TDD_Practice.PNG)
 
