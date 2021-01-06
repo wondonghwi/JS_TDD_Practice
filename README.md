@@ -1,6 +1,4 @@
-# JS로 하는 간단한 TDD 연습
-
-## JS를 이용한 TDD학습을 위한 연습!
+# JavaScript를 이용한 TDD학습을 위한 연습!
 
 ![](JS_TDD_Practice.PNG)
 
